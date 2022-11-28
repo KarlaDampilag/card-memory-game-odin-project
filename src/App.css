@@ -4,3 +4,9 @@
     min-height: 100vh;
     background-color: #ebe1e1;
 }
+
+@media (max-width: 520px) {
+ .App {
+    padding: 0.25rem;
+ }   
+}
