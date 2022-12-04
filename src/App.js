@@ -51,6 +51,9 @@ function App() {
         <Scoreboard currentScore={currentScore} bestScore={bestScore} />
         <Board data={cardsData} onCardClick={onCardClick} />
       </div>
+      <footer>
+        <a href="https://fullstackvault.xyz">Learn how to code for free</a>
+      </footer>
     </div>
   );
 }
