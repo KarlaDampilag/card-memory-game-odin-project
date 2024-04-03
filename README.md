@@ -2,11 +2,15 @@
 
 This is my implementation for the Card Memory Game from the Odin Project.
 
-View project requirements here: [https://www.theodinproject.com/lessons/node-path-javascript-memory-card](https://www.theodinproject.com/lessons/node-path-javascript-memory-card)
+View project requirements here: [https://www.theodinproject.com/lessons/node-path-react-new-memory-card](https://www.theodinproject.com/lessons/node-path-react-new-memory-card)
 
 ## Motivation
 
 I used this project idea for my article, [React.js sample project step-by-step](https://fullstackvault.xyz/blog/react-js-sample-project-step-by-step).
+
+## Live Demo
+
+[Netlify live demo](https://card-memory-game-odin-project.netlify.app/)
 
 ## Technology
 
